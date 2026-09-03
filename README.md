@@ -3,7 +3,7 @@
 A secure and structured **Online Voting System** developed using **Java and Spring Boot**, designed to manage the complete election lifecycle — from election creation and candidate nominations to voter registration, vote casting, vote counting, and result declaration.
 
 The system follows a modular backend architecture with clear separation of responsibilities between controllers, services, repositories, entities, and DTOs.
-
+ 
 ---              
 
 ## 📌 Overview
