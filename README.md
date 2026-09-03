@@ -4,7 +4,7 @@ A secure and structured **Online Voting System** developed using **Java and Spri
 
 The system follows a modular backend architecture with clear separation of responsibilities between controllers, services, repositories, entities, and DTOs.
  
----                
+---                 
 
 ## 📌 Overview
 
